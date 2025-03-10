@@ -2,6 +2,7 @@
 
 ### Survey
 
+- Human Action Recognition and Prediction: A Survey (**IJCV22**). [\[paper\]](https://link.springer.com/article/10.1007/s11263-022-01594-9)
 
 ### PTMs-Based
 
